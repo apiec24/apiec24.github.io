@@ -8,7 +8,7 @@
 }
 section{
     min-height: 90vh;
-    background: radial-gradient(#ffffff, #f5f5f5, #f0f0f0);
+    background: radial-gradient(#ffffff, #f5f5f5, #f0f0f0); 
     font-size: 100px;
     font-weight: 700;
 }
@@ -23,12 +23,14 @@ header{
     left: 0;
     width: 100%;
     padding: 20px 120px;
-    background: radial-gradient(#82c0fa,#4ea3f2,#225fc9);
+    /*background: radial-gradient(#82c0fa,#4ea3f2,#225fc9);*/
+    /* background: radial-gradient(#BFCBCE,#84A7BA,#6F90AF); */
+    background: #6F90AF;
     display: flex;
     justify-content: space-between;
     align-items: center;
     z-index: 100;
-    box-shadow: 0px 10px 30px 5px #aaa;
+    box-shadow: 0px 10px 30px 5px #555555;
 }
 .logo{
     color: black;
@@ -60,7 +62,8 @@ footer{
     bottom: 0;
     right: 0;
     width: 27%;
-    background: linear-gradient(#c7f8f9,#d0f5fb,#a5e5f7);
+    /* background: linear-gradient(#bfbfbf,#6a7191,#303655); */
+    background: #6a7191;
 }
 
 .footer-content{
