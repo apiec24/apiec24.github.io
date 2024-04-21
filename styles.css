@@ -57,12 +57,11 @@ nav a:hover, nav a.active{
     color: #f7f7f7;
 }
 
-footer{
+/* footer{
     position: fixed;
     bottom: 0;
     right: 0;
     width: 27%;
-    /* background: linear-gradient(#bfbfbf,#6a7191,#303655); */
     background: #6a7191;
 }
 
@@ -91,7 +90,7 @@ footer{
     cursor: pointer;
     background-color: black;
     color: white;
-}
+} */
 
 /*About Alex Piechucki CSS*/
 #about-section{
